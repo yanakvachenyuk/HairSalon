@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HairSalon.Pages.EmployeeServiceTypesCollectionPage"
+             Title="EmployeeServiceTypesCollectionPage"
+             xmlns:entities="clr-namespace:HairSalon.Entities"
+             x:DataType="entities:ServiceType">
+    
+    <ScrollView>
+        <CollectionView x:Name="EmployeeServiceTypesCollectionView" ItemsLayout="VerticalList" SelectionMode="None" >
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Margin="10" >
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Name}" FontSize="Medium" FontAttributes="Bold" TextColor="#474A51"/>
+                        </VerticalStackLayout>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </ScrollView>
+</ContentPage>

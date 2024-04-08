@@ -1,0 +1,137 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HairSalon
+build_property.ProjectDir = D:\4sem\OOP\HairSalon\HairSalon\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[D:/4sem/OOP/HairSalon/HairSalon/AdminShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.AdminShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AdminShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AdminShell.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/AddClientPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.AddClientPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddClientPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddClientPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/AddServicePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.AddServicePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddServicePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddServicePage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/AdminMainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.AdminMainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AdminMainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AdminMainPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/AdminProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.AdminProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AdminProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AdminProfilePage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/AdminsCollectionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.AdminsCollectionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AdminsCollectionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AdminsCollectionPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/AllServicesPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.AllServicesPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AllServicesPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AllServicesPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/ClientsCollectionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.ClientsCollectionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ClientsCollectionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ClientsCollectionPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/EmployeesCollectionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.EmployeesCollectionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\EmployeesCollectionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\EmployeesCollectionPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/EmployeeServiceTypesCollectionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.EmployeeServiceTypesCollectionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\EmployeeServiceTypesCollectionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\EmployeeServiceTypesCollectionPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/LogInPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.LogInPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\LogInPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\LogInPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProfilePage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/RegistrationPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.RegistrationPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\RegistrationPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\RegistrationPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/ServicesCollectionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.ServicesCollectionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ServicesCollectionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ServicesCollectionPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Pages/ServiceTypesCollectionPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Pages.ServiceTypesCollectionPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ServiceTypesCollectionPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ServiceTypesCollectionPage.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/4sem/OOP/HairSalon/HairSalon/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = HairSalon.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

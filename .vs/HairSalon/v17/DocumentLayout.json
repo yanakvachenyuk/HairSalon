@@ -1,0 +1,853 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4sem\\OOP\\HairSalon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\clientscollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\clientscollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\addclientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\addclientpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\clientscollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\clientscollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\addclientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\addclientpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\services\\sqliteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\services\\sqliteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\employeeservicetypescollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\employeeservicetypescollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\services\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\services\\idbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\adminscollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\adminscollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\employeescollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\employeescollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\servicetypescollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\servicetypescollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\servicescollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\servicescollectionpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\profilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\employeescollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\employeescollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\employeeservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\employeeservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\servicetypescollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\servicetypescollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\servicescollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\servicescollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\profilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\employeeservicetypescollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\employeeservicetypescollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\allservicespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\allservicespage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\allservicespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\allservicespage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\adminscollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\adminscollectionpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\adminprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\adminprofilepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\adminprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\adminprofilepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\adminmainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\adminmainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\adminmainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\adminmainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\addservicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\addservicepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\pages\\addservicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\pages\\addservicepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\servicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\personalinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\myhairsalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\myhairsalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\groupedservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\groupedservicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\entities\\accountssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\entities\\accountssystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\adminshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\adminshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|d:\\4sem\\oop\\hairsalon\\hairsalon\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC06CF68-78F4-44BB-A312-B654A54103E6}|HairSalon\\HairSalon.csproj|solutionrelative:hairsalon\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientsCollectionPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ClientsCollectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\ClientsCollectionPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ClientsCollectionPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\ClientsCollectionPage.xaml.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowGAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T16:52:21.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDbService.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Services\\IDbService.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Services\\IDbService.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Services\\IDbService.cs",
+              "RelativeToolTip": "HairSalon\\Services\\IDbService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T19:18:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "HairSalon\\MauiProgram.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\MauiProgram.cs",
+              "RelativeToolTip": "HairSalon\\MauiProgram.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:41:23.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddClientPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AddClientPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AddClientPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AddClientPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\AddClientPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-06T12:49:53.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddClientPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AddClientPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AddClientPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AddClientPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\AddClientPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T12:50:17.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientsCollectionPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ClientsCollectionPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\ClientsCollectionPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ClientsCollectionPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\ClientsCollectionPage.xaml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T15:36:25.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\Admin.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\Admin.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\Admin.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T08:39:15.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLiteService.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Services\\SQLiteService.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Services\\SQLiteService.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Services\\SQLiteService.cs",
+              "RelativeToolTip": "HairSalon\\Services\\SQLiteService.cs",
+              "ViewState": "AQIAALcAAAAAAAAAAAAIwI0AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:08:50.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminsCollectionPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminsCollectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AdminsCollectionPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminsCollectionPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\AdminsCollectionPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:42:10.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeesCollectionPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\EmployeesCollectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\EmployeesCollectionPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\EmployeesCollectionPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\EmployeesCollectionPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:52:36.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeServiceTypesCollectionPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\EmployeeServiceTypesCollectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\EmployeeServiceTypesCollectionPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\EmployeeServiceTypesCollectionPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\EmployeeServiceTypesCollectionPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T20:12:18.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\RegistrationPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\RegistrationPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\RegistrationPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-03T17:30:13.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceTypesCollectionPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ServiceTypesCollectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\ServiceTypesCollectionPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ServiceTypesCollectionPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\ServiceTypesCollectionPage.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:10:01.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServicesCollectionPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ServicesCollectionPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\ServicesCollectionPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ServicesCollectionPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\ServicesCollectionPage.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwC0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:22:56.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfilePage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\ProfilePage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ProfilePage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\ProfilePage.xaml.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwE0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:46:50.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LogInPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\LogInPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\LogInPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\LogInPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\LogInPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T06:26:50.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeesCollectionPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\EmployeesCollectionPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\EmployeesCollectionPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\EmployeesCollectionPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\EmployeesCollectionPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T19:50:46.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeServiceType.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\EmployeeServiceType.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\EmployeeServiceType.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\EmployeeServiceType.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\EmployeeServiceType.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T19:04:23.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceTypesCollectionPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ServiceTypesCollectionPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\ServiceTypesCollectionPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ServiceTypesCollectionPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\ServiceTypesCollectionPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T20:04:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ServicesCollectionPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ServicesCollectionPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\ServicesCollectionPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ServicesCollectionPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\ServicesCollectionPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T13:22:42.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\RegistrationPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\RegistrationPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T16:41:55.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProfilePage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ProfilePage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\ProfilePage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\ProfilePage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\ProfilePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T17:58:47.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T20:38:03.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\MainPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T17:46:02.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LogInPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\LogInPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\LogInPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\LogInPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\LogInPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T17:57:11.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmployeeServiceTypesCollectionPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\EmployeeServiceTypesCollectionPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\EmployeeServiceTypesCollectionPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\EmployeeServiceTypesCollectionPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\EmployeeServiceTypesCollectionPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-05T20:10:45.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AllServicesPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AllServicesPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AllServicesPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AllServicesPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\AllServicesPage.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:15:07.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AllServicesPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AllServicesPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AllServicesPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AllServicesPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\AllServicesPage.xaml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-06T10:14:58.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminsCollectionPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminsCollectionPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AdminsCollectionPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminsCollectionPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\AdminsCollectionPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T20:41:51.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminProfilePage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminProfilePage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AdminProfilePage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminProfilePage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\AdminProfilePage.xaml.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA9wDYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T11:56:01.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminProfilePage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminProfilePage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AdminProfilePage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminProfilePage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\AdminProfilePage.xaml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T10:59:35.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AdminMainPage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminMainPage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AdminMainPage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminMainPage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\AdminMainPage.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T15:34:42.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminMainPage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminMainPage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AdminMainPage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AdminMainPage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\AdminMainPage.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T12:32:57.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddServicePage.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AddServicePage.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AddServicePage.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AddServicePage.xaml.cs",
+              "RelativeToolTip": "HairSalon\\Pages\\AddServicePage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T13:24:49.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddServicePage.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AddServicePage.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\Pages\\AddServicePage.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Pages\\AddServicePage.xaml",
+              "RelativeToolTip": "HairSalon\\Pages\\AddServicePage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-07T13:24:10.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\User.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\User.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\User.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:34:59.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ServiceType.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\ServiceType.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\ServiceType.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\ServiceType.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\ServiceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:31:47.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Service.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\Service.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\Service.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\Service.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\Service.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T11:37:54.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PersonalInfo.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\PersonalInfo.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\PersonalInfo.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\PersonalInfo.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\PersonalInfo.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAswA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:33:01.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MyHairSalon.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\MyHairSalon.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\MyHairSalon.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\MyHairSalon.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\MyHairSalon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T19:49:20.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GroupedServiceType.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\GroupedServiceType.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\GroupedServiceType.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\GroupedServiceType.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\GroupedServiceType.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T10:32:30.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\Employee.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\Employee.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\Employee.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T14:24:20.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\Client.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\Client.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\Client.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:42:47.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:30:28.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AccountsSystem.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\AccountsSystem.cs",
+              "RelativeDocumentMoniker": "HairSalon\\Entities\\AccountsSystem.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\Entities\\AccountsSystem.cs",
+              "RelativeToolTip": "HairSalon\\Entities\\AccountsSystem.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAswBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:50:27.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\AppShell.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\AppShell.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\AppShell.xaml",
+              "RelativeToolTip": "HairSalon\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T11:57:11.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\App.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\App.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\App.xaml",
+              "RelativeToolTip": "HairSalon\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-28T20:39:37.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AdminShell.xaml",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\AdminShell.xaml",
+              "RelativeDocumentMoniker": "HairSalon\\AdminShell.xaml",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\AdminShell.xaml",
+              "RelativeToolTip": "HairSalon\\AdminShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T10:56:14.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "HairSalon\\AppShell.xaml.cs",
+              "ToolTip": "D:\\4sem\\OOP\\HairSalon\\HairSalon\\AppShell.xaml.cs",
+              "RelativeToolTip": "HairSalon\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:17:57.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

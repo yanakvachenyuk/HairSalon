@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HairSalon.Pages.ServicesCollectionPage"
+             xmlns:entities="clr-namespace:HairSalon.Entities"
+             x:DataType="entities:Service"
+             Title="ServicesCollectionPage">
+    <VerticalStackLayout>
+        <HorizontalStackLayout>
+        <Frame BackgroundColor="White" HasShadow="True" CornerRadius="20" Padding="1" Margin="5" BorderColor="Grey">
+            <Button Text="Add Service"
+        Clicked="OnAddServiceButton_Clicked"
+        FontSize="16"
+        FontAttributes="Bold"
+        BackgroundColor="White"
+        TextColor="Black"
+        CornerRadius="10"
+        Margin="3,3,3,3"/>
+        </Frame>
+            <Frame BackgroundColor="White" HasShadow="True" CornerRadius="20" Padding="1" Margin="5" BorderColor="Grey">
+                <Button Text="Delete Service"
+    Clicked="OnDeleteServiceButton_Clicked"
+    FontSize="16"
+    FontAttributes="Bold"
+    BackgroundColor="White"
+    TextColor="Black"
+    CornerRadius="10"
+    Margin="3,3,3,3"/>
+            </Frame>
+
+        </HorizontalStackLayout>
+    <ScrollView>
+        <CollectionView x:Name="ServicesCollectionView" ItemsLayout="VerticalList" SelectionMode="None" >
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Margin="10" >
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Name}" FontSize="Medium" FontAttributes="Bold" TextColor="#474A51"/>
+                                <Label Text="{Binding Price,StringFormat='{}{0:N2} BYN'}"  FontSize="Medium" FontAttributes="Bold" TextColor="#474A51"/>
+                        </VerticalStackLayout>
+                            <Frame.GestureRecognizers>
+                                <TapGestureRecognizer Tapped="OnServiceFrame_Tapped" CommandParameter="{Binding .}" />
+                            </Frame.GestureRecognizers>
+                        </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </ScrollView>
+    </VerticalStackLayout>
+</ContentPage>

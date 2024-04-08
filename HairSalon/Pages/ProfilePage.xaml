@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HairSalon.Pages.ProfilePage"
+             xmlns:pages="clr-namespace:HairSalon.Pages"
+             x:DataType="pages:ProfilePage"
+             Title="ProfilePage"
+             BackgroundColor="LightGray"
+             Loaded="ProfilePage_Loaded">
+    
+
+    <VerticalStackLayout Margin="0,20,0,0" >
+        <Frame BackgroundColor="White" HasShadow="True" CornerRadius="20" Padding="0" Margin="0">
+            <StackLayout Orientation="Horizontal" Padding="15" Spacing="13">
+                <Image Source="user.png" WidthRequest="80" HeightRequest="80" Aspect="AspectFill" />
+                <StackLayout VerticalOptions="Center" Spacing="4">
+                    <Label Text="{Binding Name}" FontSize="16" FontAttributes="Bold" TextColor="Black"/>
+                    <Label Text="{Binding Email}" FontSize="14" TextColor="Gray" />
+                </StackLayout>
+            </StackLayout>
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="OnFrameTapped" />
+            </Frame.GestureRecognizers>
+        </Frame>
+        <Frame BackgroundColor="White" HasShadow="True" CornerRadius="20" Padding="0" Margin="0">
+            <StackLayout Orientation="Horizontal" Padding="15" Spacing="13">
+                <Label Text="Log out" FontSize="16" FontAttributes="Bold" TextColor="Black" VerticalOptions="Center"/>
+            </StackLayout>
+           
+            <Frame.GestureRecognizers>
+                <TapGestureRecognizer Tapped="OnLogoutFrame_Tapped" />
+            </Frame.GestureRecognizers>
+        </Frame>
+
+    </VerticalStackLayout>
+</ContentPage>
+
+<!--<div>Автор иконок:
+    <a href="https://www.flaticon.com/ru/authors/alfredo-creates" title="Alfredo Creates">Alfredo Creates</a> from
+    <a href="https://www.flaticon.com/ru/" title="Flaticon">www.flaticon.com'</a>
+</div>-->

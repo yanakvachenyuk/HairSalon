@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HairSalon.Pages.ServiceTypesCollectionPage"
+             xmlns:entities="clr-namespace:HairSalon.Entities"
+             x:DataType="entities:ServiceType"
+             Title="ServiceTypesCollectionPage">
+
+    <ScrollView>
+        <CollectionView x:Name="serviceTypesCollectionView" ItemsLayout="VerticalList" SelectionMode="Single" >
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Margin="10" >
+                        <VerticalStackLayout>
+                            <Label Text="{Binding Name}" FontSize="Medium" FontAttributes="Bold" TextColor="#474A51"/>
+                        </VerticalStackLayout>
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="ServiceTypeFrame_Tapped" CommandParameter="{Binding .}" />
+                        </Frame.GestureRecognizers>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </ScrollView>
+</ContentPage>

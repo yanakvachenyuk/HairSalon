@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HairSalon.Pages.AdminMainPage"
+             Title="AdminMainPage" >
+
+    <ScrollView>
+        <CollectionView x:Name="mainCollectionView" ItemsLayout="VerticalList" SelectionMode="Single" >
+            <CollectionView.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Clients</x:String>
+                    <x:String>ServiceTypes</x:String>
+                    <x:String>Admins</x:String>
+                    <x:String>Employees</x:String>
+                </x:Array>
+            </CollectionView.ItemsSource>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Frame Margin="10" >
+                        <Label Text="{Binding .}" FontSize="Medium" FontAttributes="Bold"/>
+                        <Frame.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="MainFrame_Tapped" />
+                        </Frame.GestureRecognizers>
+                    </Frame>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </ScrollView>
+</ContentPage>

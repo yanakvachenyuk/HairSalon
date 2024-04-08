@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="HairSalon.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:HairSalon"
+    xmlns:pages="clr-namespace:HairSalon.Pages"
+    Shell.FlyoutBehavior="Disabled"
+    Title="HairSalon">
+
+    <TabBar>
+        <ShellContent Title="Main"
+                      ContentTemplate="{DataTemplate local:MainPage}">
+            
+        </ShellContent>
+        
+        <ShellContent Title="Profile"
+                      Route="LogIn"
+                      ContentTemplate="{DataTemplate pages:LogInPage}">
+
+        </ShellContent>
+
+    </TabBar>
+
+</Shell>
